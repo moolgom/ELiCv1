@@ -1,6 +1,7 @@
 BSD 3-Clause License
 
-Copyright (c) 2026, anonymous
+Copyright (c) 2025, Electronics and Telecommunications Research Institute (ETRI)
+All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
@@ -12,9 +13,19 @@ modification, are permitted provided that the following conditions are met:
    this list of conditions and the following disclaimer in the documentation
    and/or other materials provided with the distribution.
 
-3. Neither the name of the copyright holder nor the names of its
-   contributors may be used to endorse or promote products derived from
-   this software without specific prior written permission.
+3. Neither the name of the Electronics and Telecommunications Research Institute (ETRI)
+   nor the names of its contributors may be used to endorse or promote products
+   derived from this software without specific prior written permission.
+
+PATENT NOTICE
+
+This license applies only to the software and documentation provided in this
+repository. No express or implied patent rights are granted under this license.
+
+The technologies described in this software may be covered by patents owned by
+the Electronics and Telecommunications Research Institute (ETRI). Commercial
+use of such patented technologies may require a separate patent license from
+ETRI.
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
 AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
