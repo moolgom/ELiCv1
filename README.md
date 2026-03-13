@@ -146,16 +146,7 @@ python train.py \
 
 *--max_steps*: Total number of training iterations. Default: 300000
 
-### 🚀 Explicit per-level sorting vs. Morton-order-preserving hierarchy
 
-To compare the runtime performance of different spatial hierarchy oder-preserving strategies in compression and decompression, you can execute the following pairs of scripts:
-
-```bash
-# Morton-order-preserving hierarchy
-python compress.py; python decompress.py
-# Explicit per-level sorting
-python compress_sort.py; python decompress_sort.py
-```
 
 ### ⚖️ License
 
@@ -185,3 +176,4 @@ Please refer to the original repository for the baseline implementation.
 > This README is a work in progress and will be continuously updated.  
 > Please check back later for more detailed instructions, extended usage examples, and additional dataset support.
 -->
+
